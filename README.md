@@ -1,6 +1,5 @@
-========================================
-Smash Tournament Tool
-========================================
+ Smash Tournament Tool 
+ ========================================
 
 A desktop application for Super Smash Bros. Ultimate tournament organizers.
 
